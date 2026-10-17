@@ -28,32 +28,24 @@ I am a **Software Engineering Student & Backend Developer** based in Vietnam �
 - 🐳 **DevOps & Delivery:** Containerization with **Docker**, CI/CD workflows with **GitHub Actions**, and standard build lifecycles via **Maven** and **Gradle**.
 - 🌐 **Full-Stack Proficiency:** Modern web development utilizing **TypeScript**, **React**, **Next.js**, and **Tailwind CSS**.
 
-```java
-public record BackendDeveloper(
-    String name,
-    String role,
-    String location,
-    String email,
-    List<String> coreStack,
-    List<String> architecture,
-    List<String> persistence,
-    List<String> devOps,
-    String engineeringPhilosophy
-) {
-    public static BackendDeveloper me() {
-        return new BackendDeveloper(
-            "Hà Thúc Quốc Hưng",
-            "Software Engineering Student | Java & Spring Boot Backend Developer",
-            "Vietnam 🇻🇳",
-            "htquochung.dev@gmail.com",
-            List.of("Java 17/21", "Spring Boot 3.x", "Spring Cloud", "Spring Security"),
-            List.of("Microservices Architecture", "RESTful APIs", "API Gateway", "Eureka Discovery", "Circuit Breakers"),
-            List.of("PostgreSQL", "MySQL", "Redis", "Hibernate / Spring Data JPA"),
-            List.of("Docker", "Linux", "Git", "GitHub Actions", "Maven", "Gradle"),
-            "Build resilient, clean-architected, and high-performance enterprise systems."
-        );
-    }
-}
+```javascript
+const harryLeon = {
+    OS: ["Windows 11", "Linux"],
+    languages: {
+        backend: ["Java 17/21", "SQL"],
+        webAndScripting: ["TypeScript", "JavaScript", "Python"],
+        markupAndStyling: ["HTML5", "CSS3", "Bash"]
+    },
+    frameworksAndTools: {
+        backend: ["Spring Boot 3.x", "Spring Cloud", "Spring Security", "Hibernate / JPA", "Node.js"],
+        architecture: ["Microservices", "RESTful APIs", "API Gateway", "Eureka Discovery", "Circuit Breakers"],
+        security: ["JWT", "OAuth2.0", "Role-Based Access Control (RBAC)"],
+        databases: ["PostgreSQL", "MySQL", "Redis", "MongoDB"],
+        devOps: ["Docker", "Git", "GitHub Actions", "Maven", "Gradle", "Postman"]
+    },
+    currentFocus: "High-throughput Microservices, Distributed Systems & Enterprise Architecture",
+    motto: "Build resilient, clean-architected, and high-performance systems."
+};
 ```
 
 ---
