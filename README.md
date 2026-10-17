@@ -1,138 +1,249 @@
 <div align="center">
-    <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZlZ2Z0OWdwa3RtcWZnbWlybzRhMWpyZW1xNXdzOXN4OWFpYmdyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Cosmic Planet Animation" />    
-    <br/>
-    <br/>
-    <a href="https://github.com/harry-leon"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=2000&color=60A5FA&center=true&width=750&height=60&lines=Greetings%2C+wanderer!+I'm+Harry+Leon!;Backend+Developer+%26+Software+Engineer;Building+Scalable+Microservices+%26+APIs;Designing+Robust+RESTful+Architectures;" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1e1b4b,100:2563eb&height=220&section=header&text=H%C3%A0%20Th%C3%BAc%20Qu%E1%BB%91c%20H%C6%B0ng&fontSize=38&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20Backend%20Architect&descFontSize=17&descAlignY=58&fontColor=ffffff" width="100%" alt="Header Banner" />
+
+  <a href="https://github.com/harry-leon">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=50&lines=Software+Engineering+Student+%F0%9F%87%BB%F0%9F%87%B3;Java+17%2F21+%E2%80%A2+Spring+Boot+3.x+%E2%80%A2+Spring+Cloud;Architecting+Resilient+Microservices+%26+Cloud-Native+APIs;Enterprise+Backend+Systems+%26+Distributed+Design;Full+Stack+Enthusiast+%7C+TypeScript+%26+Next.js" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-    <a href="https://github.com/harry-leon?tab=followers"><img src="https://img.shields.io/badge/-Follow_Me-1e1b4b?style=for-the-badge&logo=github&logoColor=60A5FA" alt="GitHub Follow"/></a>
-    <a href="https://github.com/harry-leon?tab=repositories"><img src="https://img.shields.io/badge/-Star_Repos-4338ca?style=for-the-badge&logo=star&logoColor=f59e0b" alt="Star Repos"/></a>
-    <a href="mailto:htquochung.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/harry-leon"><img src="https://img.shields.io/badge/Location-Vietnam-0075FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/></a>
+  <a href="mailto:htquochung.dev@gmail.com"><img src="https://img.shields.io/badge/Email-htquochung.dev%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/harry-leon"><img src="https://img.shields.io/badge/Location-Vietnam-0075FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+  <a href="https://github.com/harry-leon?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Public%20Projects-10b981?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/harry-leon?tab=followers"><img src="https://img.shields.io/badge/Followers-Connect-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" /></a>
+  <img src="https://komarev.com/ghpvc/?username=harry-leon&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<br>
-
-<div align="center">
-    <a href="https://github.com/harry-leon?tab=followers">
-        <img src="https://img.shields.io/badge/🤝_CONNECT_%26_COLLABORATE-OPEN_TO_DISCUSSIONS-60A5FA?style=for-the-badge&labelColor=090D16" alt="Connect Hook"/>
-    </a>
-</div>
+<br/>
 
 ---
 
-## 👨‍💻 A little about me... 
+## 👨‍💻 About Me
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=harry-leon&data=followers,repositories,stars,commits&theme=dark)](https://github.com/harry-leon)
+I am a **Software Engineering Student & Backend Developer** based in Vietnam 🇻🇳, with a deep passion for building resilient, scalable backend infrastructures, cloud-native microservices, and enterprise RESTful APIs.
 
-I am a **Software Engineering Student & Backend Developer** with a passion for designing resilient distributed architectures, high-performance RESTful APIs, and cloud-ready services. My focus is on building clean, reliable backend systems that scale smoothly and automate core workflows.
-
-Currently, I am engaged in developing distributed **Microservice ecosystems**, **Spring Boot enterprise architectures**, and full-stack solutions.
+- 🔭 **Specialization:** Enterprise backend engineering with **Java 17/21**, **Spring Boot 3.x**, and **Spring Cloud**.
+- 🏛️ **Architecture & Design:** Microservices ecosystems, Event-Driven patterns, API Gateway routing, Eureka Service Discovery, OpenFeign declarative clients, and Resilience4j circuit breakers.
+- 💾 **Data & Persistence:** Relational databases (**PostgreSQL**, **MySQL**), in-memory caching (**Redis**), and JPA / Hibernate repository architecture.
+- 🐳 **DevOps & Delivery:** Containerization with **Docker**, CI/CD workflows with **GitHub Actions**, and standard build lifecycles via **Maven** and **Gradle**.
+- 🌐 **Full-Stack Proficiency:** Modern UI/UX implementation using **TypeScript**, **React**, **Next.js**, and **Tailwind CSS**.
 
 ```javascript
-const HarryLeon = {
-    OS: ["Windows 11", "Linux"],
-    languages: {
-        highLevel: ["Java", "TypeScript", "JavaScript"],
-        averageLevel: ["SQL", "Python", "C++"],
-        baseLevel: ["HTML5", "CSS3", "Bash"]
-    },
-    programming: {
-        backend: ["Java 17/21", "Spring Boot 3.x", "Spring Cloud", "REST APIs", "Node.js"],
-        architecture: ["Microservices", "Event-Driven", "API Gateway", "Eureka Discovery"],
-        security: ["Spring Security", "JWT", "OAuth2", "RBAC"],
-        databases: ["PostgreSQL", "MySQL", "Redis", "MongoDB"],
-        devOps_tools: ["Docker", "Git", "GitHub Actions", "Postman", "Maven", "Gradle"]
-    },
-    interests: ["Distributed Systems", "Cloud-Native Backend", "System Architecture & Design Patterns"]
+const harryLeon = {
+  name: "Hà Thúc Quốc Hưng",
+  role: "Software Engineering Student & Backend Developer",
+  location: "Vietnam 🇻🇳",
+  email: "htquochung.dev@gmail.com",
+  coreStack: {
+    languages: ["Java 17/21", "TypeScript", "JavaScript", "SQL"],
+    frameworks: ["Spring Boot 3.x", "Spring Cloud", "Spring Security", "Node.js", "Next.js"],
+    architecture: ["Microservices", "RESTful APIs", "Eureka Discovery", "API Gateway", "Circuit Breakers"],
+    storage: ["PostgreSQL", "MySQL", "Redis", "MongoDB"],
+    devOps: ["Docker", "Git", "GitHub Actions", "Maven", "Gradle", "Linux"]
+  },
+  engineeringPhilosophy: [
+    "Clean Code & SOLID Principles",
+    "Repository-First Modular Architecture",
+    "High Throughput & Low Latency API Design"
+  ]
 };
 ```
 
 ---
 
-## 🪐 Featured Systems & Repositories (Clickable)
+## 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+### Backend & Core Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs&theme=dark" alt="Backend Stack" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Java_17%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-0284C7?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+### Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" alt="Databases Stack" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### DevOps, Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postman,maven,gradle&theme=dark" alt="DevOps Stack" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+</p>
+
+### Frontend & Client Applications
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend Stack" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+</div>
+
+---
+
+## 🪐 Featured Engineering Projects
 
 <div align="center">
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/harry-leon/Aura_Team">👗 Aura - Vietnamese Costume Matcher</a></h3>
-      <p><i>Web platform helping students match Vietnamese traditional costumes by occasion, style & color harmony evaluation.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React%20%2F%20Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
+      <div align="left">
+        <h3>👗 <a href="https://github.com/harry-leon/Aura_Team">Aura - Vietnamese Costume Matcher</a></h3>
+        <p><i>Web platform assisting students and users in matching traditional Vietnamese attire (Việt Phục) with intelligent occasion coordination, styling guidelines, and color harmony analysis.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+        </p>
+        <p>🔗 <a href="https://github.com/harry-leon/Aura_Team"><b>Explore Aura Repository →</b></a></p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/harry-leon/Badminton-Shop">🏸 Badminton Shop Platform</a></h3>
-      <p><i>E-Commerce web platform dedicated to badminton equipment, managing product catalogs, shopping carts & secure checkout flows.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Full_Stack-0075FF?style=flat-square&logo=react&logoColor=white" />
-      </p>
+      <div align="left">
+        <h3>⚡ <a href="https://github.com/harry-leon?tab=repositories&q=Microservice">Microservices Architecture Series</a></h3>
+        <p><i>Comprehensive distributed enterprise microservices ecosystem featuring Eureka Service Discovery, Spring Cloud Gateway, Feign Clients, Circuit Breakers (Resilience4j), and Dockerized services.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+          <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
+          <img src="https://img.shields.io/badge/Microservices-0284C7?style=flat-square&logo=serverless&logoColor=white" alt="Microservices" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        </p>
+        <p>🔗 <a href="https://github.com/harry-leon?tab=repositories&q=Microservice"><b>Explore Microservices Ecosystem (Ss11 - Ss15) →</b></a></p>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/harry-leon?tab=repositories&q=Microservice">⚡ Microservices Architecture Ecosystem</a></h3>
-      <p><i>Comprehensive distributed microservices suite featuring API Gateway, Eureka Service Discovery, Feign Clients, and Circuit Breakers.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
+      <div align="left">
+        <h3>🏸 <a href="https://github.com/harry-leon/Badminton-Shop">Badminton-Shop E-Commerce</a></h3>
+        <p><i>Full-stack sports e-commerce platform dedicated to badminton equipment, managing product catalogs, shopping carts, transactional workflows, and checkout pipelines.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/RESTful_API-0284C7?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
+          <img src="https://img.shields.io/badge/Full_Stack-6366f1?style=flat-square&logo=react&logoColor=white" alt="Full Stack" />
+        </p>
+        <p>🔗 <a href="https://github.com/harry-leon/Badminton-Shop"><b>Explore Badminton-Shop Repository →</b></a></p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/harry-leon/Fleet-Engine">🚗 Fleet Management Engine</a></h3>
-      <p><i>Vehicle fleet operation and dispatch engine supporting status monitoring, scheduling, and core business workflow management.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Fleet_Tracker-4338ca?style=flat-square&logo=speedtest&logoColor=white" />
-        <img src="https://img.shields.io/badge/Management-0075FF?style=flat-square&logo=windows&logoColor=white" />
-      </p>
+      <div align="left">
+        <h3>🚗 <a href="https://github.com/harry-leon/Fleet-Engine">Fleet-Engine (Dispatch & Operations)</a></h3>
+        <p><i>Vehicle fleet management and dispatch engine designed for operational tracking, route coordination, real-time status updates, and dispatch workflow automation.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Fleet_Ops-4338ca?style=flat-square&logo=speedtest&logoColor=white" alt="Fleet Ops" />
+          <img src="https://img.shields.io/badge/Engine-0284C7?style=flat-square&logo=windows&logoColor=white" alt="Engine" />
+        </p>
+        <p>🔗 <a href="https://github.com/harry-leon/Fleet-Engine"><b>Explore Fleet-Engine Repository →</b></a></p>
+      </div>
     </td>
   </tr>
   <tr>
-    <td width="100%" colspan="2" valign="top" align="center">
-      <h3><a href="https://github.com/harry-leon/VietFit">🏋️ VietFit Platform</a></h3>
-      <p><i>Modern fitness & lifestyle application built for workout tracking, health routines, and personal wellness guidance.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Fitness_Engine-f59e0b?style=flat-square&logo=target&logoColor=white" />
-        <img src="https://img.shields.io/badge/Health_Tech-0075FF?style=flat-square&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/badge/Full_Stack-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </p>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🏋️ <a href="https://github.com/harry-leon/VietFit">VietFit Platform</a></h3>
+        <p><i>Modern wellness and fitness management platform built for personalized workout tracking, health routine logging, and exercise progress analytics.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Full_Stack-6366f1?style=flat-square&logo=react&logoColor=white" alt="Full Stack" />
+          <img src="https://img.shields.io/badge/Health_Tech-0075FF?style=flat-square&logo=apple&logoColor=white" alt="Health Tech" />
+          <img src="https://img.shields.io/badge/Fitness_Engine-F59E0B?style=flat-square&logo=target&logoColor=white" alt="Fitness" />
+        </p>
+        <p>🔗 <a href="https://github.com/harry-leon/VietFit"><b>Explore VietFit Repository →</b></a></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🔐 <a href="https://github.com/harry-leon/SecureAuthService">SecureAuthService (Spring Security)</a></h3>
+        <p><i>Enterprise-grade authentication and authorization microservice featuring Spring Security 6, JWT token issuance & rotation, and Role-Based Access Control (RBAC).</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+          <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+          <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        </p>
+        <p>🔗 <a href="https://github.com/harry-leon/SecureAuthService"><b>Explore SecureAuthService Repository →</b></a></p>
+      </div>
     </td>
   </tr>
 </table>
 </div>
 
-> [!TIP]
-> Star any of the repositories above to show support and connect with me!
+---
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+### 🏆 GitHub Achievements & Trophies
+<p>
+  <img src="https://github-trophies.vercel.app/?username=harry-leon&column=6&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true" width="100%" alt="Harry-Leon GitHub Trophies" />
+</p>
+
+### 📈 Contribution Activity
+<p>
+  <img src="https://github-readme-activity-graph-chi.vercel.app/graph?username=harry-leon&bg_color=090D16&title_color=60A5FA&color=60A5FA&line=60A5FA&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Harry-Leon Activity Graph" />
+</p>
+
+### ⚡ Streak & Developer Metrics
+<p>
+  <img src="https://streak-stats.demolab.com?user=harry-leon&theme=tokyonight&hide_border=true&border_radius=8&background=090D16&stroke=60A5FA&ring=60A5FA&fire=60A5FA&currStreakNum=60A5FA&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8" alt="Streak Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=harry-leon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8&border_radius=8" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-leon&layout=compact&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&text_color=94A3B8&border_radius=8" height="175" alt="Top Languages" />
+</p>
+
+</div>
 
 ---
 
-## 📊 Statistics & Activity Graph
-
-<details open>
-<summary><h3>📈 Profile Analytics</h3> <img height="22px" src="https://komarev.com/ghpvc/?username=harry-leon&label=%F0%9F%AA%90%20Visitors&color=4338ca&style=flat-square" /></summary>
+## 🤝 Get In Touch
 
 <div align="center">
-    <img alt="Harry-Leon Trophies" src="https://github-profile-trophy.vercel.app/?username=harry-leon&column=5&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" width="100%" />
+
+Whether you're interested in collaborating on distributed backend systems, discussing software architecture, or exploring new opportunities:
+
+<p>
+  <a href="mailto:htquochung.dev@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-htquochung.dev%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/harry-leon"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/harry-leon?tab=repositories"><img src="https://img.shields.io/badge/Projects-Browse_All-2563EB?style=for-the-badge&logo=git&logoColor=white" alt="Browse Projects" /></a>
+</p>
+
+<p><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e1b4b,100:090D16&height=120&section=footer" width="100%" alt="Footer Banner" />
+
 </div>
-
-<br>
-
-<div align="center">
-    <img alt="Harry-Leon Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=harry-leon&bg_color=090D16&title_color=60A5FA&color=60A5FA&line=60A5FA&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-leon&layout=compact&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&text_color=c9d1d9" />
-    <img src="https://github-readme-stats.vercel.app/api?username=harry-leon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" />
-</div>
-</details>
