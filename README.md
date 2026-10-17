@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1e1b4b,100:2563eb&height=220&section=header&text=H%C3%A0%20Th%C3%BAc%20Qu%E1%BB%91c%20H%C6%B0ng&fontSize=38&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Java%20%26%20Spring%20Boot%20Backend%20Developer&descFontSize=17&descAlignY=58&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1e1b4b,100:2563eb&height=220&section=header&text=H%C3%A0%20Th%C3%BAc%20Qu%E1%BB%91c%20H%C3%B9ng&fontSize=38&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20Backend%20Developer&descFontSize=17&descAlignY=58&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/harry-leon">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=50&lines=Software+Engineering+Student+%F0%9F%87%BB%F0%9F%87%B3;Java+17%2F21+%E2%80%A2+Spring+Boot+3.x+%E2%80%A2+Spring+Cloud;Architecting+Resilient+Microservices+%26+Cloud-Native+APIs;Enterprise+Backend+Systems+%26+Distributed+Design;Full+Stack+Enthusiast+%7C+TypeScript+%26+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=50&lines=H%C3%A0+Th%C3%BAc+Qu%E1%BB%91c+H%C3%B9ng+(Harry+Leon);Software+Engineering+Student+%F0%9F%87%BB%F0%9F%87%B3;Java+17%2F21+%E2%80%A2+Spring+Boot+3.x+%E2%80%A2+Spring+Cloud;Architecting+Resilient+Microservices+%26+Cloud-Native+APIs;Full+Stack+Enthusiast+%7C+TypeScript+%26+Next.js" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,6 +30,9 @@ I am a **Software Engineering Student & Backend Developer** based in Vietnam �
 
 ```javascript
 const harryLeon = {
+    name: "Hà Thúc Quốc Hùng",
+    role: "Backend Developer & Software Engineering Student",
+    location: "Vietnam",
     OS: ["Windows 11", "Linux"],
     languages: {
         backend: ["Java 17/21", "SQL"],
